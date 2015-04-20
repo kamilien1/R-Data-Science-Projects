@@ -37,7 +37,7 @@ complete <- function(directory, id = 1:332) {
     
         
     }
-    as.data.frame(output_file)
+    
 }
 
 #specdata <- "specdata"
